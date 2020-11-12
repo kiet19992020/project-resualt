@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php
-     echo "xin chào";
+     echo "xin chào 2";
      ?>
 </body>
 </html>
